@@ -1,1 +1,1 @@
-In my final project, I will be using Spotify's API to see the most popular track and album for an artist.
+This final project for INST 326 uses the Spotify Web API to get the most popular track, album, and artist for any user on Spotify. The spotify module contains classes for interacting with the Spotify Web API and for modeling tracks, albums, and artists.
